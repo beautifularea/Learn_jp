@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JPLearn</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="change">换一个</string>
+    <string name="change_1">只显示平假名</string>
+    <string name="change_2">只显示片假名</string>
+    <string name="change_3">全部显示</string>
+
+
+</resources>
