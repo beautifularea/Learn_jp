@@ -21,6 +21,14 @@ import java.util.regex.Pattern;
  */
 
 
+
+
+
+
+/*
+test 2015-10-9
+*/
+
 public class JPFragment extends Fragment {
     private enum TEXTTYPE {
         Hiragana, katakana, bothOf
