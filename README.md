@@ -1,2 +1,2 @@
 # Learn_jp
-a Android app for learn Hiragana and katakana
+an Android app for learn Hiragana and katakana
